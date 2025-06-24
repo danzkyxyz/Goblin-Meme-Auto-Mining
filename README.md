@@ -40,6 +40,9 @@ http://user:pass@host:port
 http://host:port
 ```
 
+## How to find the token?
+![Image](https://github.com/user-attachments/assets/f4b6fe85-b58e-43cd-b41a-3662e6b7d1fe)
+
 # 🚀 Usage
 ## Run the Script 🏃‍♂️
 ```bash
