@@ -41,6 +41,7 @@ http://host:port
 ```
 
 ## How to find the token?
+F12 or Inspect
 ![Image](https://github.com/user-attachments/assets/f4b6fe85-b58e-43cd-b41a-3662e6b7d1fe)
 
 # 🚀 Usage
