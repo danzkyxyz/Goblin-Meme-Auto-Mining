@@ -3,6 +3,8 @@ Welcome to the Goblin Meme Auto-Mining Bot! This Python script automates the min
 
 Author: t.me/airdropdxns 📩
 
+## Register : https://goblin.meme?referral_code=T43O9C
+
 ## 🎯 Features
 - Multi-Account Support 🔑: Handles multiple accounts using auth tokens from token.txt.
 - Optional Proxy Rotation 🛡️: Uses proxies from proxy.txt for each account (optional).
