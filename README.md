@@ -12,7 +12,7 @@ Author: t.me/airdropdxns 📩
 - Scheduled Execution 📅: Runs automatically every 24 hours using schedule.
 
 ## 📋 Prerequisites
-- Python 3.8+ 🐍
+- Python 3.10 🐍
 - A token.txt file with Goblin Meme auth tokens (one per line).
 - Optionally, a proxy.txt file with proxies in the format http://user:pass@host:port or http://host:port.
 - Internet connection 🌐
